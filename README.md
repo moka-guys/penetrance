@@ -1,5 +1,5 @@
 # penetrance
 
 - First stab
-- Needs refactoring but functionality
+- Needs refactoring but functional
 - Need to add pentrance calculation (currently only calcs incidence)
